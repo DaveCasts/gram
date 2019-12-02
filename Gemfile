@@ -62,6 +62,7 @@ end
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.14.5'
 gem 'bootstrap', '~> 4.3.1'
+gem 'simple_form'
 
 
 source 'https://rails-assets.org' do
